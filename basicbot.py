@@ -1,3 +1,8 @@
+''' Comment reply bot
+Author: soujanya_chan
+Created: 27 June 2017
+Modified: 28 June 2017'''
+
 import praw
 USER_AGENT=''
 CLIENT_ID=''
