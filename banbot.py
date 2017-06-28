@@ -1,3 +1,8 @@
+''' Bans users permanently if a mod comments on a submission +ban
+Author: soujanya_chan
+Created: 27 June 2017
+Modified: 28 June 2017'''
+
 import praw
 import os
 from time import gmtime, strftime
